@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="aiclip_516be7f0dba74a9793fb27e96dd5d4fa1-.gif" width="100%" />
+  <img src="aiclip_516be7f0dba74a9793fb27e96dd5d4fa1-ezgif.com-video-to-gif-converter (3).gif width="100%" />
 </p>
 
 <h1 align="center">xVOLKx · code.build.repeat.</h1>
@@ -62,8 +62,8 @@
 
 ## <img src="images/contacts.svg" width="24" align="middle"> Связь со мной
 
-- 🌐 GitHub: [xVOLKx](https://github.com/xVOLKx)
-- 💼 Kwork: [xVOLKxfreelance](https://kwork.ru/user/xVOLKxfreelance)
+- <img src="images/github.svg" width="20" align="middle"> GitHub: [xVOLKx](https://github.com/xVOLKx)
+- <img src="images/kwork.svg" width="20" align="middle"> Kwork: [xVOLKxfreelance](https://kwork.ru/user/xVOLKxfreelance)
 
 ---
 
