@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="aiclip_516be7f0dba74a9793fb27e96dd5d4fa.mp4" width="100%" />
+</p>
+
+<p align="center">
   <img src="images/шапка.gif" width="100%" />
 </p>
 
