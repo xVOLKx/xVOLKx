@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/xVOLKx"><img src="https://img.shields.io/badge/Telegram-@xVOLKx-blue?style=flat&logo=telegram" /></a>
   <a href="https://github.com/xVOLKx"><img src="https://img.shields.io/badge/GitHub-xVOLKx-black?style=flat&logo=github" /></a>
   <a href="https://kwork.ru/user/xVOLKxfreelance"><img src="https://img.shields.io/badge/Kwork-фрилансер-blue?style=flat" /></a>
   <img src="https://komarev.com/ghpvc/?username=xVOLKx&label=Просмотров+профиля&color=blueviolet&style=flat" />
