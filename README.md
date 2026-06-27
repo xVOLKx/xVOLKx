@@ -44,10 +44,10 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| <a href="https://github.com/xVOLKx/auth-phonebook-ts"><b>📞 Телефонная книга</b></a> | JWT-авторизация + CRUD + Docker | TypeScript, PostgreSQL, JWT, Docker |
-| <a href="https://github.com/xVOLKx/bull-redis-test"><b>🐳 Очереди на Bull</b></a> | Обработка 100 задач в очереди | Node.js, Bull, Redis, Docker |
-| <a href="https://github.com/xVOLKx/websocket-chat"><b>💬 Веб-сокеты чат</b></a> | Чат в реальном времени | Node.js, Express, Socket.io |
-| <a href="https://github.com/xVOLKx/telegram-bot-demo"><b>🤖 Telegram-бот</b></a> | Эхо-бот на Node.js | Node.js, Telegram Bot API |
+| <a href="https://github.com/xVOLKx/auth-phonebook-ts"><b><img src="images/contacts.svg" width="20" align="middle"> Телефонная книга</b></a> | JWT-авторизация + CRUD + Docker | TypeScript, PostgreSQL, JWT, Docker |
+| <a href="https://github.com/xVOLKx/bull-redis-test"><b><img src="images/queue.svg" width="20" align="middle"> Очереди на Bull</b></a> | Обработка 100 задач в очереди | Node.js, Bull, Redis, Docker |
+| <a href="https://github.com/xVOLKx/websocket-chat"><b><img src="images/chat.svg" width="20" align="middle"> Веб-сокеты чат</b></a> | Чат в реальном времени | Node.js, Express, Socket.io |
+| <a href="https://github.com/xVOLKx/telegram-bot-demo"><b><img src="images/bot.svg" width="20" align="middle"> Telegram-бот</b></a> | Эхо-бот на Node.js | Node.js, Telegram Bot API |
 
 ---
 
