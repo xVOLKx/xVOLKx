@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/xVOLKx"><img src="https://img.shields.io/badge/GitHub-xVOLKx-black?style=flat&logo=github" /></a>
   <a href="https://kwork.ru/user/xVOLKxfreelance"><img src="https://img.shields.io/badge/Kwork-фрилансер-blue?style=flat" /></a>
-  <img src="https://komarev.com/ghpvc/?username=xVOLKx&label=Просмотров+профиля&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=xVOLKx&label=Просмотров&color=blueviolet&style=flat" />
 </p>
 
 ---
