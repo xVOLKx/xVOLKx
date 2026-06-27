@@ -1,8 +1,4 @@
 
-https://github.com/user-attachments/assets/a8dae496-540d-4394-955b-aedc95d7a471
-
-
-
 <h1 align="center">xVOLKx · code.build.repeat.</h1>
 
 <p align="center">
