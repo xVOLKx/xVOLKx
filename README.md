@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="aiclip_516be7f0dba74a9793fb27e96dd5d4fa1-ezgif.com-video-to-gif-converter (3).gif" width="100%" />
+  <img src="aiclip_516be7f0dba74a9793fb27e96dd5d4fa1-.gif" width="100%" />
 </p>
 
 <h1 align="center">xVOLKx · code.build.repeat.</h1>
@@ -11,21 +11,21 @@
 <p align="center">
   <a href="https://github.com/xVOLKx"><img src="https://img.shields.io/badge/GitHub-xVOLKx-black?style=flat&logo=github" /></a>
   <a href="https://kwork.ru/user/xVOLKxfreelance"><img src="https://img.shields.io/badge/Kwork-фрилансер-blue?style=flat" /></a>
-  <img src="https://komarev.com/ghpvc/?username=xVOLKx&label=Просмотров+профиля&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=xVOLKx&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-### 🚀 Что я делаю
+## <img src="images/wolf.svg" width="24" align="middle"> Что я делаю
 
-- Разрабатываю бэкенд на Node.js + TypeScript
-- Создаю REST API, телеграм-ботов, парсеры, чаты
-- Работаю с PostgreSQL, Redis, Docker
-- Строю отказоустойчивые системы с очередями
+- <img src="images/node.svg" width="20" align="middle"> Разрабатываю бэкенд на Node.js + TypeScript
+- <img src="images/tech.svg" width="20" align="middle"> Создаю REST API, телеграм-ботов, парсеры, чаты
+- <img src="images/database.svg" width="20" align="middle"> Работаю с PostgreSQL, Redis, Docker
+- <img src="images/queue.svg" width="20" align="middle"> Строю отказоустойчивые системы с очередями
 
 ---
 
-### 🛠 Мой стек
+## <img src="images/tech.svg" width="24" align="middle"> Мой стек
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-18-green?style=for-the-badge&logo=node.js" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📌 Мои лучшие проекты
+## <img src="images/features.svg" width="24" align="middle"> Мои лучшие проекты
 
 | Проект | Описание | Стек |
 |--------|----------|------|
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 Статистика GitHub
+## <img src="images/github.svg" width="24" align="middle"> Статистика GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xVOLKx&show_icons=true&theme=tokyonight" width="48%" />
@@ -60,7 +60,7 @@
 
 ---
 
-### 📫 Связь со мной
+## <img src="images/contacts.svg" width="24" align="middle"> Связь со мной
 
 - 🌐 GitHub: [xVOLKx](https://github.com/xVOLKx)
 - 💼 Kwork: [xVOLKxfreelance](https://kwork.ru/user/xVOLKxfreelance)
