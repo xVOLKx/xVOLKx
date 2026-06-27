@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="aiclip_516be7f0dba74a9793fb27e96dd5d4fa.mp4" width="100%" />
-</p>
+
+https://github.com/user-attachments/assets/a8dae496-540d-4394-955b-aedc95d7a471
+
+
 
 <h1 align="center">xVOLKx · code.build.repeat.</h1>
 
