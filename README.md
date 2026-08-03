@@ -53,7 +53,7 @@
 
 ## <img src="images/github.svg" width="24" align="middle"> Статистика GitHub
 
-(сервис временно недоступен)
+![Profile views](https://komarev.com/ghpvc/?username=xVOLKx&color=blueviolet&style=flat)
 ---
 
 ## <img src="images/contacts.svg" width="24" align="middle"> Связь со мной
