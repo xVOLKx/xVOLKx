@@ -53,8 +53,7 @@
 
 ## <img src="images/github.svg" width="24" align="middle"> Статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xVOLKx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVOLKx&layout=compact&theme=tokyonight)
+(сервис временно недоступен)
 ---
 
 ## <img src="images/contacts.svg" width="24" align="middle"> Связь со мной
