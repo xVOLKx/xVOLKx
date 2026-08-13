@@ -57,16 +57,13 @@
   <img src="https://streak-stats.demolab.com/?user=xVOLKx&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xVOLKx&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## <img src="images/contacts.svg" width="24" align="middle"> Связь со мной
 
 - <img src="images/github.svg" width="20" align="middle"> GitHub: [xVOLKx](https://github.com/xVOLKx)
 - <img src="images/kwork.svg" width="20" align="middle"> Kwork: [xVOLKxfreelance](https://kwork.ru/user/xVOLKxfreelance)
+- <img src="images/email.svg" width="20" align="middle"> Почта: [xVOLKx.freelance@yandex.ru](mailto:xVOLKx.freelance@yandex.ru)
 
 ---
 
