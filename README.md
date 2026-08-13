@@ -53,7 +53,14 @@
 
 ## <img src="images/github.svg" width="24" align="middle"> Статистика GitHub
 
-(сервис временно недоступен)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=xVOLKx&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xVOLKx&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## <img src="images/contacts.svg" width="24" align="middle"> Связь со мной
