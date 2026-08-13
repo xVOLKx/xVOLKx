@@ -28,7 +28,7 @@
 ## <img src="images/tech.svg" width="24" align="middle"> Мой стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postgresql,docker,redis,jest,socketio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postgresql,docker,redis,jest,socketio,git" />
 </p>
 
 ---
