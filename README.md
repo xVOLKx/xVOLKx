@@ -28,14 +28,14 @@
 ## <img src="images/tech.svg" width="24" align="middle"> Мой стек
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18-green?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Express-4.x-black?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-16-blue?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Docker-✓-blue?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Redis-7.x-red?style=flat-square&logo=redis" />
-  <img src="https://img.shields.io/badge/Jest-тесты-red?style=flat-square&logo=jest" />
-  <img src="https://img.shields.io/badge/Socket.io-чат-black?style=flat-square&logo=socket.io" />
+  <img src="https://img.shields.io/badge/Node.js-18-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Express-4.x-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-16-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Docker-✓-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Redis-7.x-red?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/Jest-тесты-red?style=for-the-badge&logo=jest" />
+  <img src="https://img.shields.io/badge/Socket.io-чат-black?style=for-the-badge&logo=socket.io" />
 </p>
 
 ---
