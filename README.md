@@ -42,7 +42,7 @@
 | <a href="https://github.com/xVOLKx/websocket-chat"><b><img src="images/chat.svg" width="20" align="middle"> Веб-сокеты чат</b></a> | Чат в реальном времени | Node.js, Express, Socket.io |
 | <a href="https://github.com/xVOLKx/telegram-bot-demo"><b><img src="images/bot.svg" width="20" align="middle"> Telegram-бот</b></a> | Эхо-бот на Node.js | Node.js, Telegram Bot API |
 | <a href="https://github.com/xVOLKx/telegram-bot-admin"><b><img src="images/bot.svg" width="20" align="middle"> Telegram-бот с ИИ</b></a> | Бот с ИИ, заявками, статистикой и админ-панелью | Node.js, Telegraf, Yandex GPT |
-|<a href="https://github.com/xVOLKx/parser-analytics-bot"><b><img src="images/chart.svg" width="20" align="middle"> Бот-парсер валют с ИИ</b></a> | Парсинг курсов валют с ЦБ РФ, графики, ИИ-анализ, выбор валют, ежедневные отчёты Node.js, | Telegraf, Yandex GPT, Axios, Cheerio, Chart.js
+|<a href="https://github.com/xVOLKx/parser-analytics-bot"><b><img src="images/bot.svg" width="20" align="middle"> Бот-парсер валют с ИИ</b></a> | Парсинг курсов валют с ЦБ РФ, графики, ИИ-анализ, выбор валют, ежедневные отчёты Node.js, | Telegraf, Yandex GPT, Axios, Cheerio, Chart.js
 
 ---
 
