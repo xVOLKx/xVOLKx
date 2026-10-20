@@ -40,7 +40,7 @@
 | <a href="https://github.com/xVOLKx/telegram-bot-admin"><b><img src="images/bot.svg" width="20" align="middle"> Telegram-бот с ИИ и админ-панелью</b></a> | Бот с ИИ, заявками, статистикой и админ-панелью | Node.js, Telegraf, Yandex GPT |
 | <a href="https://github.com/xVOLKx/parser-analytics-bot"><b><img src="images/parser.svg" width="20" align="middle"> Бот-парсер валют с ИИ</b></a> | Парсинг курсов валют с ЦБ РФ, графики, ИИ-анализ, выбор валют | Node.js, Telegraf, Yandex GPT, Chart.js |
 | <a href="https://github.com/xVOLKx/crm-bot"><b><img src="images/bot.svg" width="20" align="middle"> CRM-бот для бизнеса</b></a> | Управление клиентами, заказами, аналитика, ИИ, роли, графики | Node.js, Telegraf, Yandex GPT, PostgreSQL, Chart.js |
-| <a href="https://github.com/xVOLKx/xvolkx-demo-bot"><b><img src="images/max.svg" width="25" align="middle"> XvolkX Demo Bot (MAX)</b></a> | Экосистема ботов в MAX: CRM, Парсер валют, ИИ-помощник | Node.js, MAX Bot API, Yandex GPT, PostgreSQL, Chart.js |
+| <a href="https://github.com/xVOLKx/xvolkx-demo-bot"><b><img src="images/max.svg" width="20" align="middle"> XvolkX Demo Bot (MAX)</b></a> | Экосистема ботов в MAX: CRM, Парсер валют, ИИ-помощник | Node.js, MAX Bot API, Yandex GPT, PostgreSQL, Chart.js |
 
 ---
 
